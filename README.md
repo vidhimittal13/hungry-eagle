@@ -4,7 +4,7 @@ Welcome to the repository of **Hungry Eagle**, a web application made especially
 
 The Hungry Eagle app is a food place recommendation system, randomly generating suggestions for where you should eat next. It provides useful information such as cuisine type, address, Yelp rating, and more.
 
-This project is currently under development. A working prototype is available at the following link: [Prototype Link](https://spiffy-kelpie-8fe194.netlify.app/)
+This project is currently under development.
 
 ## Features
 
